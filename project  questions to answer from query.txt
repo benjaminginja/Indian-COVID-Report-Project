@@ -1,0 +1,24 @@
+--Portfolio Project Questions
+
+--a.Datewise Likelihood of dying due to covid-Totalcases vs TotalDeath- in Indi
+
+--b.Total % of deaths out of entire population- in India
+
+-c.Verify b by getting info separately
+
+d.Country with highest death as a % of population
+
+-e.Total % of covid +ve cases- in India
+
+-f.Total % of covid +ve cases- in world
+
+-g.Continentwise +ve cases
+
+-h.Continentwise deaths
+
+-i.Daily newcases vs hospitalizations vs icu_patients- India
+
+-j.countrywise age>65
+
+-k. Countrywise total vaccinated persons
+
